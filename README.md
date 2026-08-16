@@ -30,6 +30,10 @@ too easy to miss.
 Grab the latest APK from [Releases](https://github.com/shano/remink/releases) and
 sideload it — Remink isn't on the Play Store.
 
+Or track updates automatically with [Obtainium](https://github.com/ImranR98/Obtainium):
+
+[<img src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png" alt="Get it on Obtainium" height="60">](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/shano/remink)
+
 ## Building from source
 
 Remink consumes Mudita's [MMD](https://github.com/mudita/MMD) e-ink component library

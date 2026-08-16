@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Remink</string>
+
+    <!-- Reminder List Screen -->
+    <string name="reminders_title">Reminders</string>
+    <string name="no_reminders">No reminders set</string>
+    <string name="add_reminder">Add reminder</string>
+    <string name="overdue_label">Overdue</string>
+
+    <!-- Add Reminder Screen -->
+    <string name="new_reminder_title">New Reminder</string>
+    <string name="label_date">Date</string>
+    <string name="label_time">Time</string>
+    <string name="label_message">Reminder</string>
+    <string name="placeholder_date">Tap to set date</string>
+    <string name="placeholder_time">Tap to set time</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="error_past_scheduled_time">Scheduled time has already passed.</string>
+    <string name="character_counter">%1$d / 200</string>
+
+    <!-- Reminder Detail Screen -->
+    <string name="reminder_detail_title">Reminder</string>
+    <string name="action_delete">Delete</string>
+    <string name="delete_confirmation_title">Delete this reminder?</string>
+    <string name="delete_confirmation_confirm">Delete</string>
+    <string name="delete_confirmation_cancel">Cancel</string>
+
+    <!-- Alarm Screen -->
+    <string name="action_dismiss">Dismiss</string>
+
+    <!-- Date / Time picker dialogs -->
+    <string name="action_confirm">Confirm</string>
+
+    <!-- Permission prompt -->
+    <string name="permission_exact_alarm_title">Exact alarm permission required</string>
+    <string name="permission_exact_alarm_body">Remink needs the exact alarm permission to fire reminders at the scheduled time. Tap below to open system settings and grant the permission.</string>
+    <string name="permission_exact_alarm_action">Open Settings</string>
+</resources>
